@@ -1,2 +1,2 @@
 # CSSOff-2013
-Entry for CSS OFF 2013 contest
+Entry for CSS Off 2013 contest
